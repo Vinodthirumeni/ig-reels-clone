@@ -79,6 +79,7 @@ DELETE UNWANTED STUFFS FROM PROJECT FOLDER : Delete unwanted files and thier dep
 delete app.test.js,logo.svg,setuptests.js and delete that dependencies in App.js as well
 
 3rd PARTY PLUGIN
+
 	Install Material UI(For icons and components)
 		npm install @material-ui/core
 		npm install @material-ui/icons
@@ -100,3 +101,5 @@ DATABASE & DEPLOYMENT
 	> firebase deploy
 
 Note: npm i firebase (If not working try this and continue npm cache clean --force)
+
+Live Link : https://ig-reels-clone-3e733.web.app/
